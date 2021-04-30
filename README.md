@@ -1,5 +1,9 @@
 # test-vue-l
 
+The application consists of 2 parts, the transition between them is carried out by the buttons in the menu.
+
+
+
 ## Project setup
 ```
 npm install
